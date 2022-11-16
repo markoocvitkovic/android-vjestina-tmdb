@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "agency.five.codebase.android.movieapp-merged_res-56:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "agency.five.codebase.android.movieapp-main-58:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "agency.five.codebase.android.movieapp-merged_res-56:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "agency.five.codebase.android.movieapp-main-58:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "agency.five.codebase.android.movieapp-merged_res-56:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "agency.five.codebase.android.movieapp-main-58:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "agency.five.codebase.android.movieapp-merged_res-56:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "agency.five.codebase.android.movieapp-main-58:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "agency.five.codebase.android.movieapp-merged_res-56:/drawable_group_10.xml.flat",
+        "source": "agency.five.codebase.android.movieapp-main-58:/drawable/group_10.xml"
+    },
+    {
+        "merged": "agency.five.codebase.android.movieapp-merged_res-56:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "agency.five.codebase.android.movieapp-main-58:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "agency.five.codebase.android.movieapp-merged_res-56:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "agency.five.codebase.android.movieapp-main-58:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "agency.five.codebase.android.movieapp-merged_res-56:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "agency.five.codebase.android.movieapp-main-58:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "agency.five.codebase.android.movieapp-merged_res-56:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "agency.five.codebase.android.movieapp-main-58:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "agency.five.codebase.android.movieapp-merged_res-56:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "agency.five.codebase.android.movieapp-main-58:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "agency.five.codebase.android.movieapp-merged_res-56:/drawable_ic_launcher_background.xml.flat",
+        "source": "agency.five.codebase.android.movieapp-main-58:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "agency.five.codebase.android.movieapp-merged_res-56:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "agency.five.codebase.android.movieapp-main-58:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "agency.five.codebase.android.movieapp-merged_res-56:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "agency.five.codebase.android.movieapp-main-58:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "agency.five.codebase.android.movieapp-merged_res-56:/drawable_group_8.xml.flat",
+        "source": "agency.five.codebase.android.movieapp-main-58:/drawable/group_8.xml"
+    },
+    {
+        "merged": "agency.five.codebase.android.movieapp-merged_res-56:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "agency.five.codebase.android.movieapp-main-58:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "agency.five.codebase.android.movieapp-merged_res-56:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "agency.five.codebase.android.movieapp-main-58:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]
